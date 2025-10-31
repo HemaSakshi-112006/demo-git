@@ -1,2 +1,6 @@
 # demo-git
-this is my first repository that i am learning , i hope is will work
+this is my first repository 
+<Br>
+that i am learning 
+<Br>
+i hope is will work
